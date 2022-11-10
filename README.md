@@ -1,2 +1,2 @@
 # Linear_Algebra_Challenges
-The coding challenge from Mike X Cohen's course on linear algebra. 
+This repository contains my code for the coding challengs for Mike X Cohen's course and book on Linear Algebra 
